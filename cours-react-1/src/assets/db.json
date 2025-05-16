@@ -4,19 +4,43 @@
       "author": "From Scratch",
       "content": "      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.",
       "date": 1621530288602,
-      "id": 1
+      "id": "1"
     },
     {
       "author": "Bill Gates",
       "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.\n\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.",
       "date": 1621536029778,
-      "id": 2
+      "id": "2"
     },
     {
       "author": "Mark Zuckerberg",
       "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. ",
       "date": 1621536056135,
-      "id": 3
+      "id": "3"
+    },
+    {
+      "id": "844d",
+      "author": "test",
+      "content": "Test d'un premier post de message en React ! Je suis trop contente d'avoir été prise chez ORANO !!!\nIl manque des caractères alors je dis aussi que Brody est trop mignon <3",
+      "date": 1747405355144
+    },
+    {
+      "id": "5e81",
+      "author": "Adèle",
+      "content": "Second test de message il faut 140 caractères : ouifhuifhbsjhbshusghdnxbsxhsbcdyhdushfbfnvkvxjhnuisddzeidfnjfnsd,cnx,cnxcnchsdussuhdsdsjdns,fndkvjvhs",
+      "date": 1747405605244
+    },
+    {
+      "id": "46f6",
+      "author": "Adèle",
+      "content": "Test pour get data après post : qhgshsdgshsdgshghsgshgdhsgshdghsghgsshghsgshgshghsghgshgsdhsghsdgshghsdgshgdhsgshgdhsghsgdhdghgdhghsdgskjshsiufyifuyfidfuyisuyiyu",
+      "date": 1747405676067
+    },
+    {
+      "id": "cd21",
+      "author": "FS",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit.",
+      "date": 1747406139026
     }
   ]
 }
